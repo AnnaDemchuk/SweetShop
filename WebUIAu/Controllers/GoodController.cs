@@ -31,21 +31,16 @@ namespace Step.WebUI.Controllers
             return View(model);
         }
 
-        public ActionResult Edit(int id = 0)
+        public ActionResult Edit(int id)
         {
-            var model = (id == 0) ? new GoodDTO() : goodService.Get(id);
-            /*  ViewBag.ManufacturerId = new SelectList(GetNullManufacturer().Union(manufacturerService.GetAll()),
-                              "ManufacturerId", "ManufacturerName", model.ManufacturerId);
-              ViewBag.CategoryId = new SelectList(GetNullCategory().Union(categoryService.GetAll()),
-                              "CategoryId", "CategoryName", model.CategoryId);
-                               */
-                
+            GoodDTO good = (id == 0) ? new GoodDTO() : goodService.Get(id);
 
-            ViewBag.ManufacturerId = new SelectList(manufacturerService.GetAll(),
-                                "ManufacturerId", "ManufacturerName", model.ManufacturerId);
             ViewBag.CategoryId = new SelectList(categoryService.GetAll(),
-                              "CategoryId", "CategoryName", model.CategoryId);
-            return View(model);
+                    "CategoryId", "CategoryName", good.CategoryName);
+            ViewBag.ManufacturerId = new SelectList(manufacturerService.GetAll(),
+                                "ManufacturerId", "ManufacturerName", good.ManufacturerName);
+   
+            return View(good);
         }
 
         [HttpPost]
@@ -56,7 +51,7 @@ namespace Step.WebUI.Controllers
                 goodService.AddOrUpdate(good);
                 return RedirectToAction("Index");
             }
-            return View("Edit");
+            return View(good);
         }
 
         /*
@@ -71,10 +66,7 @@ namespace Step.WebUI.Controllers
                   yield return new CategoryDTO() { CategoryName = "Input Category" };
               }
       */
-        public ActionResult Details(int id)
-        {
-            return View(goodService.Get(id));
-        }
+ 
         
 
         [HttpPost]
@@ -91,6 +83,13 @@ namespace Step.WebUI.Controllers
                 return Json("Error");
             }
         }
+
+        public ActionResult Details(int id)
+        {
+            return View(goodService.Get(id));
+        }
+
+
 
     }
 }
