@@ -1,0 +1,108 @@
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\EntityFramework.dll
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\Step.Repository.dll
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\Step.Repository.pdb
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\EntityFramework.xml
+D:\Anna\ASP\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anna\ASP\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojResolveAssemblyReference.cache
+D:\Anna\ASP\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+D:\Anna\ASP\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb

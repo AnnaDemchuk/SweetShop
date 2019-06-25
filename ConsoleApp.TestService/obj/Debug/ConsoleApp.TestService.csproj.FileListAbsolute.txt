@@ -1,0 +1,85 @@
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.exe.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.exe
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Autofac.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\System.ValueTuple.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Autofac.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\bin\Debug\System.ValueTuple.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.csprojAssemblyReference.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.csproj.CopyComplete
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.exe
+C:\asp.net\Lesson 20 Shop LabWork\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.csprojAssemblyReference.cache
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.exe
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.exe.config
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.exe
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Autofac.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\System.ValueTuple.dll
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Autofac.xml
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.xml
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\bin\Debug\System.ValueTuple.xml
+C:\asp.net\Lesson 21 shop trans\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.csproj.CopyComplete
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.exe.config
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.exe
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\ConsoleApp.TestService.pdb
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Autofac.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\System.ValueTuple.dll
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Shop.BLL.pdb
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Autofac.xml
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.xml
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Step.Repository.pdb
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\Shop.DAL.pdb
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.pdb
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.xml
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+D:\Anna\ASP\Shop\ConsoleApp.TestService\bin\Debug\System.ValueTuple.xml
+D:\Anna\ASP\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.csprojResolveAssemblyReference.cache
+D:\Anna\ASP\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.exe
+D:\Anna\ASP\Shop\ConsoleApp.TestService\obj\Debug\ConsoleApp.TestService.pdb

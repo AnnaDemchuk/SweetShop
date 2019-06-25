@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Shop.BLL.Models.ManufacturerDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>ManufacturerList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*Html.DisplayNameFor(model => model.ManufacturerId)*@
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @*Html.DisplayFor(modelItem => item.ManufacturerId)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ManufacturerId }, new { @class = "btn-sm btn-success" })
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.ManufacturerId }, new { @class = "btn-sm btn-danger delManufacturer", data_id = item.ManufacturerId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section ScriptsManufacturer{
+    <script type="text/javascript">
+
+        $(function () {
+            $(".delManufacturer").click(function (e) {
+                e.preventDefault()
+                if (confirm('Do you want to delete this Manufacturer?')) {
+                    $.ajax({
+                        url: "@Url.Action("Delete", "Manufacturer")",
+                        data: { id: $(this).attr('data-id') },
+                        type: 'POST',
+                        success: function (data) {
+                            if (data == "OK")
+                                window.location.href = "@Url.Action("Index", "Manufacturer")"
+                            else
+                                alert("Error!!Good has this Manufacturer")
+                        },
+                        error: function (data) {
+                            alert(data);
+                        }
+                    });
+                }
+            });
+        });
+
+    </script>
+}

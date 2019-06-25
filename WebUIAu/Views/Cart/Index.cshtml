@@ -1,0 +1,47 @@
+﻿
+@model WebUIAu.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Ваша корзина";
+}
+
+<h2>Ваша корзина</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Кол-во</th>
+            <th>Товар</th>
+            <th class="text-right">Цена</th>
+            <th class="text-right">Общая цена</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.CartIndex.Lines)
+        {
+            <tr>
+                <td class="text-center">@line.Quantity</td>
+                <td class="text-left">@line.Goodcart.GoodName</td>
+                <td class="text-right">@line.Goodcart.Price.ToString("# грн")</td>
+                <td class="text-right">
+                    @((line.Quantity * line.Goodcart.Price).ToString("# грн"))
+                </td>
+                <th>@Html.ActionLink("Удалить", "RemoveFromCart", new { goodId = line.Goodcart.GoodId, returnUrl = Request.Url.PathAndQuery }, new { @class = "btn-sm btn-danger" })</th>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Итого:</td>
+            <td class="text-right">
+                @Model.CartIndex.ComputeTotalValue().ToString("# грн")
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<div class="text-center">
+    @Html.ActionLink("Продолжить покупки", "Index", "Good", new { @class = "btn btn-primary" })
+    <a></a>
+    <a class="btn btn-success">Сделать заказ</a>
+</div>

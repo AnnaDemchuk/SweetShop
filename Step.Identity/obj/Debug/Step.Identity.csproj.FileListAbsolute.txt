@@ -1,0 +1,229 @@
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.dll.config
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.pdb
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Owin.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.csprojResolveAssemblyReference.cache
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.dll
+D:\vs2015\asp.net season2017\Lesson 24 identity sqlite\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.pdb
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.dll.config
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.pdb
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Owin.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.csprojResolveAssemblyReference.cache
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.dll
+D:\vs2017\asp.net season 2018\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.pdb
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.dll.config
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Step.Identity.pdb
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Owin.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.csprojAssemblyReference.cache
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.csproj.CoreCompileInputs.cache
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.csproj.CopyComplete
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.dll
+C:\asp.net\asp.net mvc\Lesson 26 asp.net Identity\Step.Identity.Model\Step.Identity\obj\Debug\Step.Identity.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Step.Identity.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Step.Identity.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Step.Identity.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Owin.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CopyComplete
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\obj\Debug\Step.Identity.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Identity\obj\Debug\Step.Identity.pdb
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Step.Identity.dll.config
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Step.Identity.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Step.Identity.pdb
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\EntityFramework.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Owin.dll
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\EntityFramework.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Anna\ASP\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+D:\Anna\ASP\Shop\Step.Identity\obj\Debug\Step.Identity.csprojResolveAssemblyReference.cache
+D:\Anna\ASP\Shop\Step.Identity\obj\Debug\Step.Identity.dll
+D:\Anna\ASP\Shop\Step.Identity\obj\Debug\Step.Identity.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Step.Identity.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Step.Identity.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Step.Identity.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\obj\Debug\Step.Identity.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\obj\Debug\Step.Identity.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\Lesson 25 SignalR\shop c фото и детали\Shop\Step.Identity\obj\Debug\Step.Identity.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Step.Identity.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Step.Identity.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Step.Identity.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\obj\Debug\Step.Identity.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\obj\Debug\Step.Identity.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\obj\Debug\Step.Identity.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Identity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Step.Identity.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Step.Identity.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Step.Identity.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\EntityFramework.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Owin.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\EntityFramework.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\Newtonsoft.Json.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\obj\Debug\Step.Identity.csprojAssemblyReference.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CoreCompileInputs.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\obj\Debug\Step.Identity.csproj.CopyComplete
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\obj\Debug\Step.Identity.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Identity\obj\Debug\Step.Identity.pdb

@@ -1,0 +1,80 @@
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojResolveAssemblyReference.cache
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+Y:\Группы\19п1-28\asp.net mvc\Lesson 10 solid repository\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojResolveAssemblyReference.cache
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\Anna\ASP\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb

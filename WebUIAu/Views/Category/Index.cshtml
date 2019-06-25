@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Shop.BLL.Models.CategoryDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>CategoryList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*Html.DisplayNameFor(model => model.CategoryId)*@
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @*Html.DisplayFor(modelItem => item.CategoryId)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CategoryId }, new { @class = "btn-sm btn-success" })
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.CategoryId }, new { @class = "btn-sm btn-danger delCategory", data_id = item.CategoryId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section ScriptsGood{
+    <script type="text/javascript">
+
+        $(function () {
+            $(".delCategory").click(function (e) {
+                e.preventDefault()
+                if (confirm('Do you want to delete this category?')) {
+                    $.ajax({
+                        url: "@Url.Action("Delete", "Category")",
+                        data: { id: $(this).attr('data-id') },
+                        type: 'POST',
+                        success: function (data) {
+                            if (data == "OK")
+                                window.location.href = "@Url.Action("Index", "Category")"
+                            else
+                                alert("Error!!Good has this category")
+                        },
+                        error: function (data) {
+                            alert(data);
+                        }
+                    });
+                }
+            });
+        });
+
+    </script>
+}

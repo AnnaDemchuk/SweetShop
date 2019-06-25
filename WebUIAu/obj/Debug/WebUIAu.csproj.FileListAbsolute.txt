@@ -1,0 +1,620 @@
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ApplicationInsights.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\WebUIAu.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\WebUIAu.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\WebUIAu.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\csc.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\csc.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\csc.rsp
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\csi.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\csi.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\csi.rsp
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.AppContext.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Console.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.IO.Compression.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Security.Claims.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.ValueTuple.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\vbc.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\vbc.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\vbc.rsp
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\VBCSCompiler.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Autofac.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Autofac.Integration.Mvc.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.Web.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Step.Identity.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Helpers.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\WebGrease.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\AutoMapper.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.ValueTuple.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Shop.BLL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Step.Identity.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Step.Identity.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Autofac.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Autofac.Integration.Mvc.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Helpers.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Optimization.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Antlr3.Runtime.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.AI.Web.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\AutoMapper.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\AutoMapper.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\System.ValueTuple.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\obj\Debug\WebUIAu.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\obj\Debug\WebUIAu.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\obj\Debug\WebUIAu.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\obj\Debug\WebUIAu.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\WebUIAu\obj\Debug\WebUIAu.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ApplicationInsights.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\WebUIAu.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\WebUIAu.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\WebUIAu.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\csc.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\csc.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\csc.rsp
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\csi.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\csi.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\csi.rsp
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.AppContext.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Console.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.IO.Compression.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Security.Claims.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.ValueTuple.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\vbc.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\vbc.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\vbc.rsp
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\VBCSCompiler.exe
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Autofac.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Autofac.Integration.Mvc.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.Web.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Owin.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Step.Identity.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Helpers.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\WebGrease.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\AutoMapper.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.ValueTuple.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Shop.BLL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Step.Identity.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Step.Identity.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Autofac.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Autofac.Integration.Mvc.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Helpers.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Optimization.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Antlr3.Runtime.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.AI.Web.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\AutoMapper.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\AutoMapper.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\System.ValueTuple.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\obj\Debug\WebUIAu.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\obj\Debug\WebUIAu.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\obj\Debug\WebUIAu.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\obj\Debug\WebUIAu.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\WebUIAu\obj\Debug\WebUIAu.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ApplicationInsights.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\WebUIAu.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\WebUIAu.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\WebUIAu.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\csc.exe
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\csc.exe.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\csc.rsp
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\csi.exe
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\csi.exe.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\csi.rsp
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.Managed.Core.targets
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.AppContext.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Collections.Immutable.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Console.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.IO.Compression.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.IO.FileSystem.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.IO.Pipes.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Reflection.Metadata.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Security.AccessControl.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Security.Claims.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Security.Principal.Windows.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.ValueTuple.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Xml.XmlDocument.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Xml.XPath.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\vbc.exe
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\vbc.exe.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\vbc.rsp
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\VBCSCompiler.exe
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\roslyn\VBCSCompiler.exe.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Antlr3.Runtime.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Autofac.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Autofac.Integration.Mvc.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\EntityFramework.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\EntityFramework.SqlServer.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.Agent.Intercept.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.DependencyCollector.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.Web.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.WindowsServer.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.ApplicationInsights.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Google.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Web.Infrastructure.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Newtonsoft.Json.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Owin.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Shop.BLL.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Shop.DAL.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Step.Identity.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Helpers.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Mvc.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Optimization.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Razor.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.WebPages.Deployment.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.WebPages.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.WebPages.Razor.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\WebGrease.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Step.Repository.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\AutoMapper.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.ValueTuple.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Shop.BLL.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Shop.BLL.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Shop.DAL.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Shop.DAL.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Step.Identity.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Step.Identity.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Autofac.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Autofac.Integration.Mvc.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Helpers.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Mvc.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Optimization.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.Razor.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.WebPages.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.WebPages.Deployment.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Web.WebPages.Razor.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Newtonsoft.Json.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Antlr3.Runtime.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\EntityFramework.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\EntityFramework.SqlServer.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Google.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.DependencyCollector.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.WindowsServer.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.AI.Web.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Step.Repository.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\Step.Repository.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\AutoMapper.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\AutoMapper.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\System.ValueTuple.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\System.Web.Helpers.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\System.Web.Mvc.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\System.Web.Optimization.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\System.Web.Razor.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\System.Web.WebPages.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\EntityFramework.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\obj\Debug\WebUIAu.csprojAssemblyReference.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\obj\Debug\WebUIAu.csproj.CoreCompileInputs.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\obj\Debug\WebUIAu.csproj.CopyComplete
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\obj\Debug\WebUIAu.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\WebUIAu\obj\Debug\WebUIAu.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ApplicationInsights.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\WebUIAu.dll.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\WebUIAu.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\WebUIAu.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\csc.exe
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\csc.exe.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\csc.rsp
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\csi.exe
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\csi.exe.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\csi.rsp
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.AppContext.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Console.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.IO.Compression.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Security.Claims.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.ValueTuple.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\vbc.exe
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\vbc.exe.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\vbc.rsp
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\VBCSCompiler.exe
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Autofac.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Autofac.Integration.Mvc.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\EntityFramework.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.Web.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Owin.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Shop.BLL.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Shop.DAL.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Step.Identity.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Helpers.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\WebGrease.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Step.Repository.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\AutoMapper.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.ValueTuple.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Shop.BLL.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Shop.BLL.dll.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Shop.DAL.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Shop.DAL.dll.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Step.Identity.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Step.Identity.dll.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Autofac.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Autofac.Integration.Mvc.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Helpers.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Optimization.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Antlr3.Runtime.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\EntityFramework.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.AI.Web.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Step.Repository.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\Step.Repository.dll.config
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\AutoMapper.pdb
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\AutoMapper.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\System.ValueTuple.xml
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\obj\Debug\WebUIAu.csprojAssemblyReference.cache
+C:\Users\1\Desktop\sweetShop\WebUIAu\obj\Debug\WebUIAu.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\sweetShop\WebUIAu\obj\Debug\WebUIAu.csproj.CopyComplete
+C:\Users\1\Desktop\sweetShop\WebUIAu\obj\Debug\WebUIAu.dll
+C:\Users\1\Desktop\sweetShop\WebUIAu\obj\Debug\WebUIAu.pdb

@@ -1,0 +1,191 @@
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Autofac.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\Autofac.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 20 Shop LabWork\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Autofac.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\Autofac.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\asp.net\Lesson 21 shop trans\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Autofac.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\AutoMapper.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\EntityFramework.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Step.Repository.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Step.Repository.pdb
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\Autofac.xml
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\AutoMapper.pdb
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\AutoMapper.xml
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\EntityFramework.xml
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Anna\ASP\Shop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+D:\Anna\ASP\Shop\Shop.BLL\obj\Debug\Shop.BLL.csprojResolveAssemblyReference.cache
+D:\Anna\ASP\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+D:\Anna\ASP\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Autofac.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\Autofac.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\25 shop with photo\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Autofac.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\Autofac.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\shop c фото и детали11\Shop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Autofac.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\Autofac.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\Users\1\Desktop\Анна\шаг\1 asi.net mvc\проект шоп\фото 12\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
