@@ -64,6 +64,9 @@ namespace WebUIAu.Controllers
                 : "";
 
             var userId = User.Identity.GetUserId();
+            ViewBag.UserId = User.Identity.GetUserId();//
+            ViewBag.UserName = User.Identity.GetUserName();//
+
             var model = new IndexViewModel
             {
                 HasPassword = HasPassword(),

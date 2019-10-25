@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Shop.BLL.Models.SubCategoryDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h4>Список подкатегорий </h4>
+
+<p>
+    @Html.ActionLink("Новая", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+</p>
+
+<table class="table">
+    <tr>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.SubCategoryId)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </th>
+        *@
+
+        <th>
+            @Html.DisplayNameFor(model => model.SubCategoryName)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.SubCategoryPathPhoto)
+        </th>
+        *@
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.SubCategoryId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryId)
+        </td>
+        *@
+        <td>
+            @Html.DisplayFor(modelItem => item.SubCategoryName)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryName)
+        </td>
+
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.SubCategoryPathPhoto)
+        </td>
+        *@
+        <td>
+            @Html.ActionLink("Редактировать", "Edit", new { id = item.SubCategoryId }, new { @class = "btn-sm btn-success" })
+            @Html.ActionLink("Удалить", "Delete", new { id = item.SubCategoryId }, new { @class = "btn-sm btn-danger delItem", data_id = item.SubCategoryId })
+        </td>
+    </tr>
+    }
+
+</table>
+
+

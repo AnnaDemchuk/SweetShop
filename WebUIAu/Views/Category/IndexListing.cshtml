@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Shop.BLL.Models.CategoryDTO>
+
+@{
+    ViewBag.Title = "IndexListing";
+}
+<h4>Список категорий</h4>
+@{
+    if (User.IsInRole("admin"))
+    {
+        <p>
+            @Html.ActionLink("Новый", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+        </p>
+    }
+}
+<table class="table">
+    <tr>
+        <th>
+            Фото
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        <th>
+
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.HiddenFor(modelItem => item.CategoryId)
+
+                @if (item.CategoryPathPhoto != null)
+                {
+                    <a href="@Url.Action("ProductFind", "ProductPrice", new { id = item.CategoryId })">
+                        <img src="@item.CategoryPathPhoto" height="200" width="200" alt="no photo" />
+                    </a>
+                }
+                else
+                {
+                    <a href="@Url.Action("ProductFind", "ProductPrice", new { id = item.CategoryId })">
+                        <div style="width: 200px; height: 200px; background-color:aquamarine">
+                            <p> No first photo </p>  <br>
+                        </div>
+                    </a>
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                @{
+                    if (User.IsInRole("admin"))
+                    {
+                        @Html.ActionLink("Редактировать", "Edit", new { id = item.CategoryId }, new { @class = "btn-sm btn-success" })
+                        @Html.ActionLink("Удалить", "Delete", new { id = item.CategoryId }, new { @class = "btn-sm btn-danger delCategory", data_id = item.CategoryId })
+                        <br>
+                    }
+                }
+            </td>
+        </tr>
+    }
+</table>

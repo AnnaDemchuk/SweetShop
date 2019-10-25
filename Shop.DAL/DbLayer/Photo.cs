@@ -11,12 +11,12 @@ namespace Shop.DAL.DbLayer
     {
         public int PhotoId { get; set; }
 
-        public int GoodId { get; set; }
+        public int ProductId { get; set; }
 
         [Required]
         [StringLength(128)]
         public string PathPhoto { get; set; }
 
-        public virtual Good Good { get; set; }
+        public virtual Product Product { get; set; }
     }
 }

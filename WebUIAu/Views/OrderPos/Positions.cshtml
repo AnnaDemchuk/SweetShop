@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Shop.BLL.Models.OrderPositionDTO>
+
+@{
+    ViewBag.Title = "Позиции заказа";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+
+}
+
+<h4>Позиции заказа</h4>
+
+<p>
+    @*@Html.ActionLink("Новый", "Create")*@
+</p>
+<table class="table">
+    <tr>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.OrderPosId)
+        </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.GoodName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderCount)
+        </th>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.OrderId)
+        </th>
+        *@
+       
+        <th>
+            @Html.DisplayNameFor(model => model.OrderPosPrice)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.OrderPosAmount)
+        </th>
+    </tr>
+
+            @foreach (var item in Model)
+            {
+    <tr>
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderPosId)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductId)
+        </td>
+        *@
+        <td>
+            @Html.DisplayFor(modelItem => item.GoodName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderCount)
+        </td>
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderId)
+        </td>
+        *@
+
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderPosPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderPosAmount)
+        </td>
+
+        <td>
+            @Html.ActionLink("Редактировать", "Edit", new { id = item.OrderPosId }, new { @class = "btn-sm btn-success" })
+            @*Html.ActionLink("Details", "Details", new { id = item.TasteCategoryId }, new { @class = "btn-sm btn-success" })*@
+            @Html.ActionLink("Удалить", "Delete", new { id = item.OrderPosId }, new { @class = "btn-sm btn-danger delItem", data_id = item.OrderPosId })
+        </td>
+    </tr>
+    }
+
+</table>
+
+

@@ -50,21 +50,43 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbLayer\Category.cs" />
-    <Compile Include="DbLayer\Good.cs" />
+    <Compile Include="DbLayer\Delivery.cs" />
     <Compile Include="DbLayer\Manufacturer.cs" />
+    <Compile Include="DbLayer\Order.cs" />
+    <Compile Include="DbLayer\OrderPosition.cs" />
     <Compile Include="DbLayer\Photo.cs" />
-    <Compile Include="DbLayer\Sale.cs" />
-    <Compile Include="DbLayer\SaleDetail.cs" />
+    <Compile Include="DbLayer\Product.cs" />
+    <Compile Include="DbLayer\ProductPrice.cs" />
     <Compile Include="DbLayer\ShopContext.cs" />
+    <Compile Include="DbLayer\StatusOrder.cs" />
+    <Compile Include="DbLayer\SubCategory.cs" />
+    <Compile Include="DbLayer\TasteCategory.cs" />
+    <Compile Include="DbLayer\Unit.cs" />
+    <Compile Include="Models\DeliveryExt.cs" />
+    <Compile Include="Models\ProductPriceExt.cs" />
+    <Compile Include="Models\StatusOrderExt.cs" />
+    <Compile Include="Models\UnitExt.cs" />
+    <Compile Include="Models\TasteCategoryExt.cs" />
+    <Compile Include="Models\SubCategoryExt.cs" />
+    <Compile Include="Models\PhotoExt.cs" />
+    <Compile Include="Models\OrderPositionExt.cs" />
+    <Compile Include="Models\OrderExt .cs" />
+    <Compile Include="Models\ManufacturerExt.cs" />
     <Compile Include="Models\CategoryExt.cs" />
-    <Compile Include="Models\GoodExt.cs" />
+    <Compile Include="Models\ProductExt.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ProductPriceRepository.cs" />
+    <Compile Include="Repositories\StatusOrderRepository.cs" />
+    <Compile Include="Repositories\UnitRepository.cs" />
+    <Compile Include="Repositories\SubCategoryRepository.cs" />
+    <Compile Include="Repositories\TasteCategoryRepository.cs" />
+    <Compile Include="Repositories\DeliveryRepository.cs" />
     <Compile Include="Repositories\PhotoRepository.cs" />
     <Compile Include="Repositories\CategoryRepository.cs" />
-    <Compile Include="Repositories\GoodRepository.cs" />
+    <Compile Include="Repositories\ProductRepository.cs" />
     <Compile Include="Repositories\ManufacturerRepository.cs" />
-    <Compile Include="Repositories\SaleDetailRepository.cs" />
-    <Compile Include="Repositories\SaleRepository.cs" />
+    <Compile Include="Repositories\OrderPositionRepository.cs" />
+    <Compile Include="Repositories\OrderRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -77,5 +99,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

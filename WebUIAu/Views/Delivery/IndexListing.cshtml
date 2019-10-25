@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Shop.BLL.Models.DeliveryDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Доставка</h2>
+
+<p>
+    @Html.ActionLink("Новый", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.DeliveryId)
+        </th>
+        *@
+
+        <th>
+            @Html.DisplayNameFor(model => model.DeliveryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DeliveryPrice)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        @*
+        <td>
+            @Html.HiddenFor(modelItem => item.DeliveryId)
+        </td>
+        *@
+        <td>
+            @Html.DisplayFor(modelItem => item.DeliveryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DeliveryPrice)
+        </td>
+        <td>
+            @Html.ActionLink("Редактировать", "Edit", new { id = item.DeliveryId }, new { @class = "btn-sm btn-success" })
+            @*Html.ActionLink("Details", "Details", new { id = item.DeliveryId }, new { @class = "btn-sm btn-info" })*@
+            @Html.ActionLink("Удалить", "Delete", new { id = item.DeliveryId }, new { @class = "btn-sm btn-danger delItem", data_id = item.DeliveryId })<br>
+        </td>
+    </tr>
+    }
+
+</table>
+

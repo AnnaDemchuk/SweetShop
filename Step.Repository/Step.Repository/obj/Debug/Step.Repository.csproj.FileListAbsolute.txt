@@ -78,3 +78,195 @@ E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и прои
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb

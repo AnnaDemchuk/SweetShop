@@ -26,43 +26,80 @@ namespace Shop.BLL.Modules
             builder.RegisterType(typeof(CategoryRepository))
              .As(typeof(IGenericRepository<Category>));
 
-             //Manufacturer
+            //Delivery
+            builder.RegisterType(typeof(DeliveryService))
+            .As(typeof(IGenericService<DeliveryDTO>));
+            builder.RegisterType(typeof(DeliveryRepository))
+        .As(typeof(IGenericRepository<Delivery>));
+
+            //Manufacturer
             builder.RegisterType(typeof(ManufacturerService))
             .As(typeof(IGenericService<ManufacturerDTO>));
             builder.RegisterType(typeof(ManufacturerRepository))
         .As(typeof(IGenericRepository<Manufacturer>));
 
-            //Good
-            builder.RegisterType(typeof(GoodService))
-             .As(typeof(IGenericService<GoodDTO>));
-            builder.RegisterType(typeof(GoodRepository))
-           .As(typeof(IGenericRepository<Good>));
 
+            //OrderPosition
+            builder.RegisterType(typeof(OrderPositionService))
+             .As(typeof(IGenericService<OrderPositionDTO>));
+            builder.RegisterType(typeof(OrderPositionRepository))
+            .As(typeof(IGenericRepository<OrderPosition>));
+
+            //Order
+            builder.RegisterType(typeof(OrderService))
+             .As(typeof(IGenericService<OrderDTO>));
+            builder.RegisterType(typeof(OrderRepository))
+            .As(typeof(IGenericRepository<Order>));
 
             // Photo
             builder.RegisterType(typeof(PhotoRepository)).As(typeof(IGenericRepository<Photo>));
             builder.RegisterType(typeof(PhotoService)).As(typeof(IGenericService<PhotoDTO>));
 
-            //SaleDetail
-            builder.RegisterType(typeof(SaleDetailService))
-             .As(typeof(IGenericService<SaleDetailDTO>));
-            builder.RegisterType(typeof(SaleDetailRepository))
-            .As(typeof(IGenericRepository<SaleDetail>));
-            //Sale
-            builder.RegisterType(typeof(SaleService))
-             .As(typeof(IGenericService<SaleDTO>));
-            builder.RegisterType(typeof(SaleRepository))
-            .As(typeof(IGenericRepository<Sale>));
-      
+            //Product
+            builder.RegisterType(typeof(ProductService))
+             .As(typeof(IGenericService<ProductDTO>));
+            builder.RegisterType(typeof(ProductRepository))
+           .As(typeof(IGenericRepository<Product>));
 
-         
+            //ProductPrice
+            builder.RegisterType(typeof(ProductPriceService))
+             .As(typeof(IGenericService<ProductPriceDTO>));
+            builder.RegisterType(typeof(ProductPriceRepository))
+           .As(typeof(IGenericRepository<ProductPrice>));
 
-        
-          
 
-            
+            //StatusOrder
+            builder.RegisterType(typeof(StatusOrderService))
+             .As(typeof(IGenericService<StatusOrderDTO>));
+            builder.RegisterType(typeof(StatusOrderRepository))
+           .As(typeof(IGenericRepository<StatusOrder>));
 
-          
+
+            //SubCategory
+            builder.RegisterType(typeof(SubCategoryService))
+            .As(typeof(IGenericService<SubCategoryDTO>));
+            builder.RegisterType(typeof(SubCategoryRepository))
+        .As(typeof(IGenericRepository<SubCategory>));
+
+            //TasteCategory
+            builder.RegisterType(typeof(TasteCategoryService))
+            .As(typeof(IGenericService<TasteCategoryDTO>));
+            builder.RegisterType(typeof(TasteCategoryRepository))
+        .As(typeof(IGenericRepository<TasteCategory>));
+
+            //Unit
+            builder.RegisterType(typeof(UnitService))
+            .As(typeof(IGenericService<UnitDTO>));
+            builder.RegisterType(typeof(UnitRepository))
+        .As(typeof(IGenericRepository<Unit>));
+
+
+
+
+
+
+
+
 
 
         }

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Shop.BLL.Models.TasteCategoryDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2></h2>
+
+<p>
+    @Html.ActionLink("Новый", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.TasteCategoryId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </th>
+        *@
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.TasteCategoryPathPhoto)
+        </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.TasteCategoryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        <th></th>
+    </tr>
+
+        @foreach (var item in Model)
+        {
+    <tr>
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.TasteCategoryId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryId)
+        </td>
+        *@
+
+        @*
+        <td>
+        <img src="@item.TasteCategoryPathPhoto" height="200" width="200" alt="no photo" />  *@
+        @*  @Html.DisplayFor(modelItem => item.TasteCategoryPathPhoto)*@
+        @*  </td>  *@
+
+
+        <td>
+            @Html.DisplayFor(modelItem => item.TasteCategoryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryName)
+        </td>
+        <td>
+            @Html.ActionLink("Редактировать", "Edit", new { id = item.TasteCategoryId }, new { @class = "btn-sm btn-success" })
+            @*Html.ActionLink("Details", "Details", new { id = item.TasteCategoryId }, new { @class = "btn-sm btn-success" })*@
+            @Html.ActionLink("Удалить", "Delete", new { id = item.TasteCategoryId }, new { @class = "btn-sm btn-danger delItem", data_id = item.TasteCategoryId })
+        </td>
+    </tr>
+    }
+</table>
+

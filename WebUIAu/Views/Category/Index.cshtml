@@ -1,68 +1,98 @@
 ﻿@model IEnumerable<Shop.BLL.Models.CategoryDTO>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Category";
 }
 
-<h2>CategoryList</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
-</p>
-<table class="table">
-    <tr>
-        <th>
-            @*Html.DisplayNameFor(model => model.CategoryId)*@
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.CategoryName)
-        </th>
-        <th></th>
-    </tr>
+<div>
+    <div class="col-md-12 text-center marb-35">
+        <h4 class="header-h">Все готовим с любовью</h4>
+        <img class="menu-swash" src="/Images/swash.svg">
+        <p class="header-w">
+            Наша продкуция  - это безграничный полет фантазий и желаний больших и маленьких сладкоежек!
+        </p>
+    </div>
+</div>
 
+<div>
     @foreach (var item in Model)
     {
-        <tr>
-            <td>
-                @*Html.DisplayFor(modelItem => item.CategoryId)*@
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CategoryName)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.CategoryId }, new { @class = "btn-sm btn-success" })
-
-                @Html.ActionLink("Delete", "Delete", new { id = item.CategoryId }, new { @class = "btn-sm btn-danger delCategory", data_id = item.CategoryId })
-            </td>
-        </tr>
+        <div class="col-md-4" style="text-align: center">
+            @Html.HiddenFor(modelItem => item.CategoryId)
+            <br>
+            @if (item.CategoryPathPhoto != null)
+            {
+                <a href="@Url.Action("Index", "ProductFind", new { id = item.CategoryId })">
+                    <img src="@item.CategoryPathPhoto" height="250" width="250" alt="no photo" />
+                </a>
+            }
+            else
+            {
+                <a href="@Url.Action("ProductFind", "ProductPrice", new { id = item.CategoryId })">
+                    <div style="width: 250px; height: 250px; background-color:aquamarine">
+                        <p> No first photo </p>  <br>
+                    </div>
+                </a>
+            }
+            <br>
+            <div class="categories" style="margin:10px; font-size:22px"> @Html.DisplayFor(modelItem => item.CategoryName).ToString().ToUpper()</div>
+        </div>
     }
 
-</table>
+</div>
 
-@section ScriptsGood{
-    <script type="text/javascript">
+<div>
+    <div class="col-md-12 text-center marb-36">
+        <h4 class="header-hh" >Самые вкусные авторские торты самой вкусной цене </h4>
+        <p class="header-p">
+            Кондитерское изделие станет украшением любого праздника. Мастера подойдут к оформлению блюда
+            креативно, и он удивит вас и гостей.
+            Большая свадьба, корпоративный фуршет, яркий детский День Рождения
+            – ни один из этих праздников не может обойтись без главного сладкого блюда!
+        </p>
+    </div>
+</div>
 
-        $(function () {
-            $(".delCategory").click(function (e) {
-                e.preventDefault()
-                if (confirm('Do you want to delete this category?')) {
-                    $.ajax({
-                        url: "@Url.Action("Delete", "Category")",
-                        data: { id: $(this).attr('data-id') },
-                        type: 'POST',
-                        success: function (data) {
-                            if (data == "OK")
-                                window.location.href = "@Url.Action("Index", "Category")"
-                            else
-                                alert("Error!!Good has this category")
-                        },
-                        error: function (data) {
-                            alert(data);
-                        }
-                    });
-                }
-            });
-        });
+<!-- //banner-text -->
+<!-- services -->
+<div id="services" class="services">
+    <div class="container">
+        <div class="services-top">
+            <div class="col-md-6 services-top-left">
+                <div class="services-top-main">
+                    <div class="col-md-6 services-left service-img">
+                        <a href="~/Images/88.jpg" class=" mask b-link-stripe b-animate-go swipebox" title="">
+                            <img src="~/Images/88.jpg" alt="" class="img-responsive" />
+                        </a>
+                    </div>
+                    <div class="col-md-6 services-left">
+                        <h4>Свежая продукция</h4>
+                        <p>Свежеспеченные продукты доставляются в кратчайшие сроки</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
 
-    </script>
-}
+            </div>
+            <div class="col-md-6 services-top-left">
+                <div class="services-top-main">
+                    <div class="col-md-6 services-left service-img">
+                        <a href="~/Images/77.jpg" class=" mask b-link-stripe b-animate-go swipebox" title="">
+                            <img src="~/Images/77.jpg" alt="" class="img-responsive" />
+                        </a>
+                    </div>
+                    <div class="col-md-6 services-left">
+                        <h4>Высокое качество</h4>
+                        <p>Мы используем проверенные, качественные продукты и ингредиенты</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+
+
+    </div>
+</div>

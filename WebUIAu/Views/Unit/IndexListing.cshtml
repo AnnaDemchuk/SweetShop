@@ -1,0 +1,58 @@
+﻿@* @model IEnumerable<Shop.BLL.Models.UnitDTO>  *@
+
+@* @model PagedList.IPagedList<IEnumerable<Shop.BLL.Models.UnitDTO>>  *@
+@using Shop.BLL.Models;
+
+@model PagedList.IPagedList<Shop.BLL.Models.UnitDTO>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+<h4>Список условных единиц </h4>
+
+@{
+    if (User.IsInRole("admin"))
+    {
+        <p>
+            @Html.ActionLink("Новый", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+        </p>
+    }
+}
+<table class="table">
+    <tr>
+        @*
+            <th>
+                @Html.DisplayNameFor(model => model.UnitId)
+            </th>
+        *@
+        <th>
+            @*   @Html.DisplayNameFor(model => model.UnitName) *@ Наименование
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitId)
+                </td>
+            *@
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.UnitId }, new { @class = "btn-sm btn-success" })
+                @*Html.ActionLink("Details", "Details", new { id = item.UnitId }, new { @class = "btn-sm btn-info" })*@
+                @Html.ActionLink("Delete", "Delete", new { id = item.UnitId }, new { @class = "btn-sm btn-danger delUnit", data_id = item.UnitId })<br>
+            </td>
+        </tr>
+    }
+
+</table>
+
+@* *@
+Страница @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) из @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("IndexHtmlAction", new { page }))

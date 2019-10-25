@@ -1,0 +1,99 @@
+﻿@model Shop.BLL.Models.ProductDTO
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2> </h2>
+
+<div>
+    <h4> </h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GoodName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GoodName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GoodAbout)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GoodAbout)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GoodComment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GoodComment)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ManufacturerId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ManufacturerId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ManufacturerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ManufacturerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnitId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnitName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId })
+    @Html.ActionLink("Список", "Index")
+</p>

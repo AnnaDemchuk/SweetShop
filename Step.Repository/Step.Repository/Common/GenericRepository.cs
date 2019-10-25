@@ -20,8 +20,16 @@ namespace Step.Repository.Common
         }
         public void AddOrUpdate(T obj)
         {
-            dbSet.AddOrUpdate(obj);
-            context.SaveChanges();
+            try
+            {
+                dbSet.AddOrUpdate(obj);
+                context.SaveChanges();
+
+            }
+            catch (Exception exc)
+            {
+                string s = exc.Message;
+            }
         }
 
         public void Delete(T obj)

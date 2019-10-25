@@ -1,0 +1,136 @@
+﻿@model IEnumerable<Shop.BLL.Models.ProductDTO>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>  </h2>
+
+<p>
+    @Html.ActionLink("Новый", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GoodName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GoodAbout)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GoodComment)
+        </th>
+        @*
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </th>
+        @*
+            <th>
+                @Html.DisplayNameFor(model => model.ManufacturerId)
+            </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerName)
+        </th>
+        @*
+            <th>
+                @Html.DisplayNameFor(model => model.UnitId)
+            </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.UnitName)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GoodName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GoodAbout)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GoodComment)
+            </td>
+
+            @*
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryId)
+                </td>
+            *@
+
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+
+            @*
+                <td>
+                    @Html.DisplayFor(modelItem => item.ManufacturerId)
+                </td>
+            *@
+
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerName)
+            </td>
+
+            @*
+                <td>
+                   Html.DisplayFor(modelItem => item.UnitId)
+                </td>
+            *@
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitName)
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.ProductId }, new { @class = "btn-sm btn-success" })
+                @*Html.ActionLink("Детали", "Details", new { id = item.ProductId }, new { @class = "btn-sm btn-info" })*@
+                @Html.ActionLink("Удалить", "Delete", new { id = item.ProductId }, new { @class = "btn-sm btn-danger delProduct", data_id = item.ProductId })<br>
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+@section ScriptsDelete{
+    <script type="text/javascript">
+                        $(function () {
+                            $(".delProduct").click(function (e) {
+                                e.preventDefault()
+                                if (confirm('Do you want to delete this good?')) {
+                                    $.ajax({
+                                        url: "@Url.Action("Delete", "Product")",
+                                        data: { id: $(this).attr('data-id') },
+                                        type: 'POST',
+                                        success: function (data) {
+                                            if (data == "OK")
+                                                window.location.href = "@Url.Action("Index", "Product")"
+                                            else
+                                                alert(data);
+                                        },
+                                        error: function (data) {
+                                            alert(data);
+                                        }
+                                    });
+                                }
+                            });
+                        });
+    </script>
+
+}

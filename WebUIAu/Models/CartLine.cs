@@ -9,7 +9,7 @@ namespace WebUIAu.Models
 {
     public class CartLine
     {
-        public GoodDTO Goodcart { get; set; }
+        public ProductPriceDTO ProductPricecart { get; set; }
         public int Quantity { get; set; }
     }
 }

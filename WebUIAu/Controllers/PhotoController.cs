@@ -17,16 +17,32 @@ namespace WebUIAu.Controllers
         {
             this.photoService = photoService;
         }
-        public ActionResult ShowPhoto(int id)
+
+        public ActionResult ShowPhotoDelete(int id)
         {
-            var photo = photoService.FindBy(p => p.GoodId == id);
-            ViewBag.GoodId = id;
-            return View(photo);
+           
+            var photo = photoService.FindBy(p => p.ProductId == id);
+            ViewBag.ProductId = id;//
+             return PartialView(photo);//
+          //  return View(photo);
         }
 
+        public ActionResult ShowPhoto(int id)
+        {
+            var photo = photoService.FindBy(p => p.ProductId == id);
+            ViewBag.ProductId = id;
+            return View(photo);
+        }
+     
+        public ActionResult FirstPhoto(int id)
+        {
+            var photo = photoService.FindBy(p => p.ProductId == id).FirstOrDefault();
+            return PartialView(photo);
+        }
+        
         public ActionResult UploadPhoto(int id)
         {
-            ViewBag.GoodId = id;
+            ViewBag.ProductId = id;
             return View();
         }
 
@@ -41,13 +57,30 @@ namespace WebUIAu.Controllers
                 {
                     PhotoId = 0,
                     PathPhoto = "/Images/" + item.FileName,
-                    GoodId = Convert.ToInt32(Id)
+                    ProductId = Convert.ToInt32(Id) //
                 };
                 photoService.AddOrUpdate(photo);
                 string path = Path.Combine(Server.MapPath("~/Images/"), item.FileName);
                 item.SaveAs(path);
             }
-            return RedirectToAction("Details", "Good", new { id = Convert.ToInt32(Id) });
+            //  return RedirectToAction("Details", "ProductPrice", new { id = Convert.ToInt32(Id) });
+            return RedirectToAction("Edit", "Product", new { id = Convert.ToInt32(Id) });
+        }
+
+        [HttpPost]
+        public ActionResult Delete(int id)
+        {
+            try
+            {
+              
+                PhotoDTO photo = photoService.Get(id);
+                photoService.Delete(photo);
+                return Json("OK");
+            }
+            catch
+            {
+                return Json("Error");
+            }
         }
     }
 }

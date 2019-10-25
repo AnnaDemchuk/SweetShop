@@ -106,3 +106,275 @@ E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и прои
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.DAL\obj\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.DAL\obj\Debug\Shop.DAL.pdb

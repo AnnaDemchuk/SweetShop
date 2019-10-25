@@ -1,48 +1,135 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title – приложение ASP.NET</title>
+    <title>@ViewBag.Title – BigCake</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 
+    <link href="~/Content/styleSweet.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/Content/shortcodes.css" rel="stylesheet" />
+   
 </head>
 <body>
+
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                @Html.ActionLink("Имя приложения", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Домашняя страница", "Index", "Home")</li>
-                    <li>@Html.ActionLink("О программе", "About", "Home")</li>
-                    <li>@Html.ActionLink("Контакт", "Contact", "Home")</li>
-                </ul>
-                @Html.Partial("_LoginPartial")
+            <div class="header-nav">
+                <nav class="navbar navbar-default">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div class="logo">
+                            <h1><a class="navbar-brand"><label>B</label>ig <label>C</label>ake<span>Handmade Sweet</span></a></h1>
+                        </div>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li class="hvr-sweep-to-bottom active"> @Html.ActionLink("Главная", "Index", "Category", null, new { @class = "scroll" }) </li>
+                            <li id="cart-header" data-id="qwerty" class="hvr-sweep-to-bottom">@Html.Action("CartCount", "Cart")</li>
+
+
+                            @{
+                                if (User.IsInRole("admin"))
+                                {
+                                    <li class="hvr-sweep-to-bottom">@Html.ActionLink("Админпанель", "Index", "Dashboard")</li>
+                                }
+                            }
+                            <li>@Html.Partial("_LoginPartial")</li>
+                        </ul>
+
+                    </div><!-- /.navbar-collapse -->
+                </nav>
             </div>
         </div>
     </div>
+
+
     <div class="container body-content">
         @RenderBody()
         <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year – приложение ASP.NET</p>
-        </footer>
+        @*<footer></footer>*@
     </div>
+
+
+    <!-- footer -->
+    <div class="footer w3layouts-agile">
+        <div class="container">
+            <div class="footer-grids">
+                <div class="col-md-3 footer-grid-w3layouts-agile">
+                    <h4 class="title">О нас</h4>
+                    <ul>
+                        <li>У нас трудится дружная команда </li>
+                        <li>кондитеров, которые являются</li>
+                        <li>настоящими волшебниками</li>
+                        <li>кулинарного искусства</li>
+                        <li><a href="#">@**@</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 footer-grid-w3layouts-agile">
+                    <h4 class="title">Информация</h4>
+                    <ul>
+                        <li>@Html.ActionLink("Оплата/Доставка","AboutOrder", "Order")</li>
+                        <li>Прием заказов по телефону</li>
+                        <li>с Пн-Пт с 9.00-18.00</li>
+                        <li><a href="#">@**@</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 footer-grid-w3layouts-agile">
+                    <h4 class="title">Сотрудничество</h4>
+                    <ul>
+                        <li>Корпоративным заказчикам</li>
+                        <li>Партнерам</li>
+                        <li>Свадебным агентствам</li>
+                        <li>Ресторанам</li>
+                        <li>Кейтеринговым компаниям</li>
+                    </ul>
+                </div>
+                <div class="col-md-3 footer-grid-w3layouts-agile contact-grid">
+                    <h4 class="title">Контакты</h4>
+                    <ul>
+                        <li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>Украина г.Киев</li>
+                        <li class="adrs">ул.Каштановая 23</li>
+                        <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>+380 066 444 1111</li>
+                        <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:example@gmail.com">mail@example.com</a></li>
+                    </ul>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+    <div class="copy">
+        <div class="container">
+            <div class="copy-left-w3l-agile">
+                <p>@*© 2019*@ </p>
+            </div>
+            <div class="social-icons">
+                <ul>
+                    <li><a href="#" class="fb"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#" class="pn"></a></li>
+                </ul>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <!--//footer-->
+
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
-    @RenderSection("ScriptsGood", false)
-    @RenderSection("ScriptsManufacturer", false)
-
+    @RenderSection("ScriptsDelete", false)
+    @RenderSection("ScriptsQuantity", false)
+    @RenderSection("ScriptsAlert", false)
 </body>
 </html>

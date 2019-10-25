@@ -1,0 +1,74 @@
+﻿@model WebUIAu.Models.VmProductFind
+
+@using WebUIAu.Helpers
+@using WebUIAu.Models
+
+
+@*<div class="product-content product-threecolumn product-slidebar clearfix">
+        <ul class="product style2 sd1">
+            @foreach (var item in Model.ProductOnPage)
+            {
+
+
+            <li class="product-item" style="list-style-type: none">
+                <div class="col-sm-3">
+                    <div class="product-thumb clearfix displayed">
+
+                        @Html.Action("FirstPhoto", "Photo", new { id = item.ProductId })
+
+                </div>
+                <div class="product-info clearfix">
+                    <span class="product-title">
+                        @Html.DisplayFor(modelItem => item.GoodName)
+                    </span>
+                    <div class="price">
+                        <ins>
+                            <span class="amount">@Html.DisplayFor(modelItem => item.Price) грн</span>
+                        </ins>
+                    </div>
+                    </div>
+                </div>
+                <a class="btn-sm btn-success btn-cart" data-id="@item.ProductPriceId">В корзину</a>
+
+            </li>
+            }
+        </ul> /.product
+    </div>*@<!-- /.product-content -->
+
+<div class="container-fluid">
+    
+        @foreach (var item in Model.ProductOnPage)
+        {
+
+    <div class="col-md-4">
+        <div>
+            <div id="details">
+                @Html.Action("FirstPhoto", "Photo", new { id = item.ProductId }) <br />
+            </div>
+            @Html.DisplayFor(modelItem => item.GoodName) <br />
+
+            <div style="font-weight:bold">
+                @Html.DisplayFor(modelItem => item.Price) грн
+            </div>
+
+            @Html.DisplayFor(modelItem => item.ManufacturerName)
+            <br />
+        </div>
+        <div class="marb-35">
+            <a class="btn-sm btn-success btn-cart" data-id="@item.ProductPriceId">В корзину</a>
+        </div>
+    </div>
+
+    }
+    </div>
+</div>
+
+
+<div class="pager">
+
+    @if (Model.paging.TotalPages > 1)
+    {
+        @Html.PageLinks((PagingInfo)Model.paging, null)
+    }
+
+</div>

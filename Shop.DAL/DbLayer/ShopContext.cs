@@ -12,44 +12,92 @@ namespace Shop.DAL.DbLayer
         {
         }
 
-        public virtual DbSet<Category> Categories { get; set; }
-        public virtual DbSet<Good> Goods { get; set; }
-        public virtual DbSet<Manufacturer> Manufacturers { get; set; }
-        public virtual DbSet<Photo> Photos { get; set; }
-        public virtual DbSet<Sale> Sales { get; set; }
-        public virtual DbSet<SaleDetail> Salepos { get; set; }
+        public virtual DbSet<Category> Category { get; set; }
+        public virtual DbSet<Delivery> Delivery { get; set; }
+        public virtual DbSet<Manufacturer> Manufacturer { get; set; }
+        public virtual DbSet<Order> Order { get; set; }
+        public virtual DbSet<OrderPosition> OrderPosition { get; set; }
+        public virtual DbSet<Photo> Photo { get; set; }
+        public virtual DbSet<Product> Product { get; set; }
+        public virtual DbSet<ProductPrice> ProductPrice { get; set; }
+        public virtual DbSet<StatusOrder> StatusOrder { get; set; }
+        public virtual DbSet<SubCategory> SubCategory { get; set; }
+        public virtual DbSet<TasteCategory> TasteCategory { get; set; }
+        public virtual DbSet<Unit> Unit { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Good>()
-                .Property(e => e.GoodName)
+            modelBuilder.Entity<Category>()
+                .HasMany(e => e.Product)
+                .WithRequired(e => e.Category)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Category>()
+                .HasMany(e => e.SubCategory)
+                .WithRequired(e => e.Category)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Category>()
+                .HasMany(e => e.TasteCategory)
+                .WithRequired(e => e.Category)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Delivery>()
+                .Property(e => e.DeliveryPrice)
+                .HasPrecision(19, 4);
+
+            modelBuilder.Entity<Delivery>()
+                .HasMany(e => e.Order)
+                .WithRequired(e => e.Delivery)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Manufacturer>()
+                .Property(e => e.ManufacturerPhone)
+                .IsFixedLength()
                 .IsUnicode(false);
 
-            modelBuilder.Entity<Good>()
+            modelBuilder.Entity<Manufacturer>()
+                .HasMany(e => e.Product)
+                .WithRequired(e => e.Manufacturer)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Order>()
+                .HasMany(e => e.OrderPosition)
+                .WithRequired(e => e.Order)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<OrderPosition>()
+                .Property(e => e.OrderPosPrice)
+                .HasPrecision(19, 4);
+
+            modelBuilder.Entity<Product>()
+                .HasMany(e => e.OrderPosition)
+                .WithRequired(e => e.Product)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Product>()
+                .HasMany(e => e.Photo)
+                .WithRequired(e => e.Product)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Product>()
+                .HasMany(e => e.ProductPrice)
+                .WithRequired(e => e.Product)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<ProductPrice>()
                 .Property(e => e.Price)
                 .HasPrecision(19, 4);
 
-            modelBuilder.Entity<Good>()
-                .Property(e => e.GoodCount)
-                .HasPrecision(18, 3);
-
-            modelBuilder.Entity<Good>()
-                .HasMany(e => e.Salepos)
-                .WithRequired(e => e.Good)
+            modelBuilder.Entity<StatusOrder>()
+                .HasMany(e => e.Order)
+                .WithRequired(e => e.StatusOrder)
                 .WillCascadeOnDelete(false);
 
-            modelBuilder.Entity<Sale>()
-                .Property(e => e.Summa)
-                .HasPrecision(19, 4);
-
-            modelBuilder.Entity<Sale>()
-                .HasMany(e => e.Salepos)
-                .WithRequired(e => e.Sale)
+            modelBuilder.Entity<Unit>()
+                .HasMany(e => e.Product)
+                .WithRequired(e => e.Unit)
                 .WillCascadeOnDelete(false);
         }
-
-      
-
-        //  public System.Data.Entity.DbSet<Shop.BLL.Models.GoodDTO> GoodDTOes { get; set; }
     }
 }

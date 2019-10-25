@@ -1,0 +1,95 @@
+﻿@model Shop.BLL.Models.ProductPriceDTO
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>  </h2>
+
+<div>
+    <h4>   </h4>
+ 
+    @Html.Action("ShowPhoto", "Photo", new { id = Model.ProductId})
+    <dl class="dl-horizontal">
+        @*
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductPriceId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductPriceId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductId)
+        </dd>
+        *@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GoodName) :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GoodName) 
+        </dd>
+
+        @*
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </dt>
+
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryId)
+        </dd>
+       
+        <dt>
+            @Html.DisplayNameFor(model => model.SubCategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubCategoryId)
+        </dd>
+        *@
+        <dt>
+            @Html.DisplayNameFor(model => model.SubCategoryName) :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubCategoryName)
+        </dd>
+        @*
+        <dt>
+            @Html.DisplayNameFor(model => model.TasteCategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TasteCategoryId)
+        </dd>
+        *@
+        <dt>
+            @Html.DisplayNameFor(model => model.TasteCategoryName) :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TasteCategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price) : 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price) грн
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*  @Html.ActionLink("Список", "Index") *@
+</p>

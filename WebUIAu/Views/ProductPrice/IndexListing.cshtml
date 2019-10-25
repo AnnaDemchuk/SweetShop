@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Shop.BLL.Models.ProductPriceDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h4>    </h4>
+@{
+    if (User.IsInRole("admin"))
+    {
+        <p>
+            @Html.ActionLink("Новый", "Edit", "ProductPrice", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+        </p>
+        }
+    }
+        <table class="table">
+            <tr>
+                <th> Фото</th>
+                <th> @Html.DisplayNameFor(model => model.GoodName)</th>
+                <th> @Html.DisplayNameFor(model => model.SubCategoryName)</th>
+                <th> @Html.DisplayNameFor(model => model.TasteCategoryName)</th>
+                <th> @Html.DisplayNameFor(model => model.Price)</th>
+                <th> @Html.DisplayNameFor(model => model.ManufacturerName)</th>
+                <th>  </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.Action("FirstPhoto", "Photo", new { id = item.ProductId })
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GoodName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SubCategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TasteCategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ManufacturerName)
+                    </td>
+
+                    <td>
+                        @{
+                            if (User.IsInRole("admin"))
+                            {
+                                @Html.ActionLink("Редактировать", "Edit", new { id = item.ProductPriceId }, new { @class = "btn-sm btn-success" }) <br />
+                                @Html.ActionLink("Удалить", "Delete", new { id = item.ProductPriceId }, new { @class = "btn-sm btn-danger delItem", data_id = item.ProductPriceId })<br />
+
+                            }
+                        }
+                        @Html.ActionLink("Детали", "Details", new { id = item.ProductPriceId }, new { @class = "btn-sm btn-info" }) <br />
+                      
+                    </td>
+                </tr>
+            }
+
+        </table>

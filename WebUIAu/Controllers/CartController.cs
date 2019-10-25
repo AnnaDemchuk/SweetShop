@@ -11,32 +11,39 @@ namespace WebUIAu.Controllers
 {
     public class CartController : Controller
     {
-        IGenericService<GoodDTO> goodService;
+        IGenericService<ProductPriceDTO> productPriceService;
+        IGenericService<OrderDTO> orderService;
+        IGenericService<OrderPositionDTO> orderPosService;
+      //  private ApplicationUserManager _userManager;
+        CustomerInfo customerInfo;//
 
-
-
-        public CartController (IGenericService<GoodDTO> goodServ)
+        public CartController (IGenericService<ProductPriceDTO> prodPriceServ, 
+            IGenericService<OrderDTO> _orderService, IGenericService<OrderPositionDTO> _orderPosService)
         {
-            goodService = goodServ;
+            productPriceService = prodPriceServ;
+            orderService = _orderService;
+            orderPosService = _orderPosService;
         }
 
-        public RedirectToRouteResult AddToCart(int goodId, string returnUrl)
+
+        [HttpPost]
+        public ActionResult AddToCart(int id)
         {
-            GoodDTO goodDTO = goodService.Get(goodId);
-            if (goodDTO != null)
+            ProductPriceDTO productPriceDTO = productPriceService.Get(id);
+            if (productPriceDTO != null)
             {
-                GetCart().AddItem(goodDTO, 1);
+                GetCart().AddItem(productPriceDTO, 1);
             }
-            return RedirectToAction("Index", new { returnUrl });
+            //  return RedirectToAction("Index", new { returnUrl });
+            return Json("OK");
         }
-
-        public RedirectToRouteResult RemoveFromCart(int goodId, string returnUrl)
+        public RedirectToRouteResult RemoveFromCart(int productPriceId, string returnUrl)
         {
-            GoodDTO goodDTO = goodService.Get(goodId);
+            ProductPriceDTO productPriceDTO = productPriceService.Get(productPriceId);
 
-            if (goodDTO != null)
+            if (productPriceDTO != null)
             {
-                GetCart().RemoveLine(goodDTO);
+                GetCart().RemoveLine(productPriceDTO);
             }
             return RedirectToAction("Index", new { returnUrl });
         }
@@ -61,5 +68,27 @@ namespace WebUIAu.Controllers
             });
         }
 
+
+        [HttpPost]
+        public ActionResult NewQuantity(int id, int quantity)
+        {
+            try
+            {
+                GetCart().ChangeQuantity(id, quantity);
+                return Json("OK");
+            }
+            catch
+            {
+                return Json("Error");
+            }
+        }
+
+        //[ChildActionOnly]
+        public ActionResult CartCount()
+        {
+            var cart = GetCart(); //взять карт
+            ViewData["CartCount"] = cart.GetCount();//количество товаров
+            return PartialView("CartCount");
+        }
     }
 }

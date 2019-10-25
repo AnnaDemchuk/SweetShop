@@ -1,0 +1,125 @@
+﻿@model IEnumerable<Shop.BLL.Models.OrderDTO>
+
+@{
+    ViewBag.Title = "FindMyOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Все мои заказы</h2>
+
+<p>
+  
+</p>
+<table class="table">
+    <tr>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.OrderId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.DateCreateOrder)
+        </th>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.DateCreateGood)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.DeliveryId)
+        </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.DeliveryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DeliveryAdress)
+        </th>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.StatusId)
+        </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.StatusName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserEmail)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.OrderComment)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserId)
+        </td>
+        *@
+        <td>
+            @Html.DisplayFor(modelItem => item.DateCreateOrder)
+        </td>
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.DateCreateGood)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.DeliveryId)
+        </td>
+        *@
+
+        <td>
+            @Html.DisplayFor(modelItem => item.DeliveryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DeliveryAdress)
+        </td>
+        @*
+        <td>
+            @Html.DisplayFor(modelItem => item.StatusId)
+        </td>
+        *@
+        <td>
+            @Html.DisplayFor(modelItem => item.StatusName)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserEmail)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.OrderComment)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Total) грн
+        </td>
+        <td>
+            @Html.ActionLink("Позиции", "FindMyOrderDetails", "OrderPos", new { id = item.OrderId }, new { @class = "btn-sm btn-info" })
+        </td>
+    </tr>
+}
+
+</table>

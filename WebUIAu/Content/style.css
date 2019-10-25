@@ -1,0 +1,19 @@
+.feature-box-mai/* ============= Featured Box ============== */
+.feature-box-main{ padding:0; z-index:999999; position:relative; margin-top:80px;}
+
+
+.feature-box-main h2{font-weight:400; text-transform:capitalize; text-align:center; padding: 0 0 25px; border-bottom:none; color: #ff6d84; font-family: "Comic Sans MS",cursive; font-size:30px;}
+
+.feature-box{ width:19.4%; margin:0 1px 0 1px; padding: 2.5%; float:left; text-align:center; cursor:pointer;}
+.feature-box h2{font-weight:400; text-transform:capitalize; text-align:center; padding:20px 0; border-bottom:none; color: #ff6d84; font-family: "Comic Sans MS",cursive; font-size:30px;}
+.feature-box p{color: #666666; line-height: 20px; padding-bottom:20px; text-align: center; font-family: "Roboto Condensed",sans-serif;}
+
+.feature-box img{display:block; margin: auto;}
+.feature-box:hover{background-color:#e7e7e7;}
+ 
+.feature-box .feature-title{ margin:0 0 25px 0; text-transform:uppercase; font:700 28px 'Roboto',san-serif; color:#ffffff;}
+
+.feature-box a{ color:#0ec7ab; font:12px arial;}
+.read-btn{color:#ffffff !important; padding:8px 14px 8px 14px; text-align:center; border:1px solid #FFF; border-radius:6px; -moz-border-radius:6px; -webkit-border-radius:6px;}
+.feature-box:hover .read-btn{background-color:#ffffff; color:#3a3c41 !important;}
+.iconset{height:auto !important; width:auto !important; border:none !important;}

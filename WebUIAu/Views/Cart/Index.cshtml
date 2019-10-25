@@ -9,25 +9,46 @@
 <table class="table">
     <thead>
         <tr>
-            <th>Кол-во</th>
-            <th>Товар</th>
-            <th class="text-right">Цена</th>
-            <th class="text-right">Общая цена</th>
-            <th></th>
+            <td class="text-center"> Фото  </td>
+            <td class="text-center" style="width: 170px"> Количество </td>
+            <td class="text-center"> Наименование </td>
+            <td class="text-center"> Цена  </td>
+            <td class="text-center"> Общая цена</td>
+           
         </tr>
     </thead>
     <tbody>
         @foreach (var line in Model.CartIndex.Lines)
         {
-            <tr>
-                <td class="text-center">@line.Quantity</td>
-                <td class="text-left">@line.Goodcart.GoodName</td>
-                <td class="text-right">@line.Goodcart.Price.ToString("# грн")</td>
-                <td class="text-right">
-                    @((line.Quantity * line.Goodcart.Price).ToString("# грн"))
-                </td>
-                <th>@Html.ActionLink("Удалить", "RemoveFromCart", new { goodId = line.Goodcart.GoodId, returnUrl = Request.Url.PathAndQuery }, new { @class = "btn-sm btn-danger" })</th>
-            </tr>
+        <tr>
+            <td class="text-center">
+                @Html.Action("FirstPhoto", "Photo", new { id = @line.ProductPricecart.ProductId })
+            </td>
+
+
+            <td class="text-center">
+                <div>
+                    <button class="minus" data-id="@line.ProductPricecart.ProductId"> - </button>
+                    <input type="text" name="@line.Quantity" value="@line.Quantity" size="1" id="score-@line.ProductPricecart.ProductId" data-id="@line.ProductPricecart.ProductId" disabled>
+                    <button class="plus" data-id="@line.ProductPricecart.ProductId"> + </button>
+                </div>
+
+            </td>
+
+            <td class="text-center"> @line.ProductPricecart.GoodName</td>
+
+            <td class="text-center">
+                @line.ProductPricecart.Price.ToString("# грн")
+            </td>
+
+            <td class="text-center">
+                @((line.Quantity * line.ProductPricecart.Price).ToString("# грн"))
+            </td>
+
+            <th>
+                @Html.ActionLink("Удалить", "RemoveFromCart", new { productPriceId = line.ProductPricecart.ProductPriceId, returnUrl = Request.Url.PathAndQuery }, new { @class = "btn-sm btn-danger" })
+            </th>
+        </tr>
         }
     </tbody>
     <tfoot>
@@ -41,7 +62,62 @@
 </table>
 
 <div class="text-center">
-    @Html.ActionLink("Продолжить покупки", "Index", "Good", new { @class = "btn btn-primary" })
-    <a></a>
-    <a class="btn btn-success">Сделать заказ</a>
+    @Html.ActionLink("Оформить", "Edit", "CartTest", null, new { @class = "btn btn-primary" })
 </div>
+
+
+@section ScriptsQuantity{
+    <script type="text/javascript">
+            $(document).ready(function () {
+                $('.minus').click(function () {
+               
+                    var id = $(this).attr('data-id');
+                    var elem = '#score-' + id;
+                    var value = parseInt($(elem).val()) - 1;
+                    value = value < 1 ? 1 : value;
+                    $(elem).val(value);
+                  //  console.log(value);
+                 //   alert("id-" + id + " " + "value-" + value);
+                             $.ajax({
+                        url: "@Url.Action("NewQuantity", "Cart")",
+                                 data: { id: parseInt(id), quantity: value },
+                             type: 'POST',
+                            success: function (data) {
+                                if (data == "OK")
+                                    window.location.href = "@Url.Action("Index", "Cart")"
+                                else
+                                    alert("Not works change Quantity")
+                            },
+                            error: function (data) {
+                                alert(data);
+                            }
+                             });
+                    });
+             
+
+                $('.plus').click(function () {
+                    var id = $(this).attr('data-id');
+                    var elem = '#score-' + id ;
+                    var value = parseInt($(elem).val()) + 1;
+                    $(elem).val(value);
+                 //   console.log(value);
+                 //   alert("id-" + id + " " + "value-" + value);
+                             $.ajax({
+                        url: "@Url.Action("NewQuantity", "Cart")",
+                                 data: { id: parseInt(id), quantity: value },
+                             type: 'POST',
+                            success: function (data) {
+                                if (data == "OK")
+                                    window.location.href = "@Url.Action("Index", "Cart")"
+                                else
+                                    alert("Not works change Quantity")
+                            },
+                            error: function (data) {
+                                alert(data);
+                            }
+                             });
+            });
+            });
+            
+    </script>   
+    }

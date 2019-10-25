@@ -10,15 +10,15 @@ namespace WebUIAu.Models
     public class Cart
     {
         public List<CartLine> lineCollection = new List<CartLine>();
-        public void AddItem(GoodDTO goodDTO, int quantity)
+        public void AddItem(ProductPriceDTO productPriceDTO, int quantity)
         {
-            CartLine line = lineCollection.Where(g => g.Goodcart.GoodId == goodDTO.GoodId).FirstOrDefault();
+            CartLine line = lineCollection.Where(g => g.ProductPricecart.ProductPriceId == productPriceDTO.ProductPriceId).FirstOrDefault();
 
             if (line == null)
             {
                 lineCollection.Add(new CartLine
                 {
-                    Goodcart = goodDTO,
+                    ProductPricecart = productPriceDTO,
                     Quantity = quantity
                 });
             }
@@ -27,14 +27,27 @@ namespace WebUIAu.Models
                 line.Quantity += quantity;
             }
         }
-        public void RemoveLine(GoodDTO  goodDTO)
+        public void RemoveLine(ProductPriceDTO productPriceDTO)
         {
-            lineCollection.RemoveAll(l => l.Goodcart.GoodId == goodDTO.GoodId);
+            lineCollection.RemoveAll(l =>l.ProductPricecart.ProductPriceId == productPriceDTO.ProductPriceId);
         }
+
          public decimal ComputeTotalValue()
         {
-            return lineCollection.Sum(e => e.Goodcart.Price * e.Quantity);
+            return lineCollection.Sum(e => e.ProductPricecart.Price * e.Quantity);
         }
+
+  //товаров в корзине штук    
+        public int GetCount()
+        {
+            int? count = 0;
+            foreach (var item in lineCollection)
+            {               
+                    count += item.Quantity;
+            }
+            return count ?? 0;
+        }
+//
 
         public void Clear()
         {
@@ -45,5 +58,19 @@ namespace WebUIAu.Models
         {
             get { return lineCollection; }
         }
+
+        public void ChangeQuantity(int id, int quantity)
+        {
+            foreach (var item in lineCollection)
+            {
+                if(item.ProductPricecart.ProductId==id)
+                {
+                    item.Quantity = quantity;
+                }
+            }
+           
+        }
+
+
     }
 }

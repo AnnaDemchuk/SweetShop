@@ -12,16 +12,27 @@ namespace Shop.DAL.DbLayer
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Category()
         {
-            Goods = new HashSet<Good>();
+            Product = new HashSet<Product>();
+            SubCategory = new HashSet<SubCategory>();
+            TasteCategory = new HashSet<TasteCategory>();
         }
 
         public int CategoryId { get; set; }
 
         [Required]
-        [StringLength(20)]
+        [StringLength(32)]
         public string CategoryName { get; set; }
 
+        [StringLength(128)]
+        public string CategoryPathPhoto { get; set; }
+
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Good> Goods { get; set; }
+        public virtual ICollection<Product> Product { get; set; }
+
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<SubCategory> SubCategory { get; set; }
+
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<TasteCategory> TasteCategory { get; set; }
     }
 }

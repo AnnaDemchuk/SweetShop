@@ -189,3 +189,467 @@ E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и прои
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
 E:\шаг step\1 asi.net mvc\проект шоп\фото 14 -кат и произв\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop2раб.едит\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop4 фильтр\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\Диплом 2019\Anna\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.pdb
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.xml
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.dll
+D:\Проекты Visual St\sweetShop6 create\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\Autofac.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.pdb
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\System.ValueTuple.xml
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.dll
+D:\Проекты Visual St\sweetShop7 order\sweetShop5 картинкапервая -нов.база.испр\Shop.BLL\obj\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+D:\Проекты Visual St\sweetShop8 filtr\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\Диплом 2019\Anna Demchuk\Anna\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+D:\Проекты Visual St\Diplom_12.09\sweetShop10 админ панель\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Diplom_13.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Diplom_14.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Diplom_19.09 page not works\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Shop_20.09.2 page.email.order\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Shop_26.09\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Autofac.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\AutoMapper.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\EntityFramework.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Step.Repository.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Step.Repository.dll.config
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\Autofac.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\AutoMapper.pdb
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\AutoMapper.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\EntityFramework.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\System.ValueTuple.xml
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\шаг step\00 Диплом\Shop_26.09 база3\sweetShop\Shop.BLL\obj\Debug\Shop.BLL.pdb

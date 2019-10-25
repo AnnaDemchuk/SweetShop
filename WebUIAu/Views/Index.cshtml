@@ -1,0 +1,204 @@
+﻿@model WebUIAu.Models.VmProductFind
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model => model.CategoryId)
+    @Html.HiddenFor(model => model.CategoryName)
+    @Html.HiddenFor(model => model.paging.CurrentPage)
+    @Html.HiddenFor(model => model.paging.ItemsPerPage)
+    @Html.HiddenFor(model => model.paging.TotalItems)
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+
+                <div class="container-fluid">
+                    <div class="row">
+                        <h4>Производители</h4>
+
+                        <div class="col-sm-12">
+                            @for (int i = 0; i < Model.ManufacturerSelects.Count; i++)
+                            {
+                                <div>
+                                    @Html.HiddenFor(x => Model.ManufacturerSelects[i].ManufacturerId)
+                                    @Html.CheckBoxFor(x => Model.ManufacturerSelects[i].IsCheck, new { @class = "mycheck" })
+                                    @Html.DisplayFor(x => Model.ManufacturerSelects[i].ManufacturerName)
+                                    @Html.HiddenFor(x => Model.ManufacturerSelects[i].ManufacturerName)
+                                </div>
+                            }
+
+
+                        </div>
+                    </div>
+
+                </div>
+                <hr />
+                <div class="container-fluid">
+                    <div class="row">
+                        <h4>  Подкатегории</h4>
+                        <div class="col-sm-12">
+                            @for (int i = 0; i < Model.SubCategorySelects.Count; i++)
+                            {
+                                <div>
+                                    @Html.HiddenFor(x => Model.SubCategorySelects[i].SubCategoryId)
+                                    @Html.CheckBoxFor(x => Model.SubCategorySelects[i].IsCheck, new { @class = "mycheck" })
+                                    @Html.DisplayFor(x => Model.SubCategorySelects[i].SubCategoryName)
+                                    @Html.HiddenFor(x => Model.SubCategorySelects[i].SubCategoryName)
+                                </div>
+                            }
+
+
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <h4>Вкусы</h4>
+                        <div class="col-sm-12">
+                            @for (int i = 0; i < Model.TasteCategorySelects.Count; i++)
+                            {
+                                <div>
+                                    @Html.HiddenFor(x => Model.TasteCategorySelects[i].TasteCategoryId)
+                                    @Html.CheckBoxFor(x => Model.TasteCategorySelects[i].IsCheck, new { @class = "mycheck" })
+                                    @Html.DisplayFor(x => Model.TasteCategorySelects[i].TasteCategoryName)
+                                    @Html.HiddenFor(x => Model.TasteCategorySelects[i].TasteCategoryName)
+                                </div>
+                            }
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-9">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-9">
+                            @*@Html.EditorFor(t => t.GoodName, new { htmlAttributes = new { @class = "form-control w-100",
+                                placeholder="Input part name goods"} } )*@
+                        </div>
+                        <div class="col-sm-1">
+                            <button id="find" type="submit" class="btn btn-sm btn-warning">Поиск</button>
+                        </div>
+                        <div class="col-sm-2">
+                            @Html.ActionLink("Show Cart", "Index", "Cart", null, new { @class = "btn btn-sm btn-success" })
+                        </div>
+
+                    </div>
+
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div id="products" class="col-sm-12">
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+}
+
+
+@section Scripts
+{
+    <script type="text/javascript">
+        function LoadData(model) {
+                 //var model = $('form').serialize();
+                $.ajax({
+                    url: "@Url.Action("LoadData", "ProductFind")",
+                    type: 'POST',
+                    data: model,//$('form').serialize(),
+                    success: function (data) {
+                        if (data == "OK") {
+                            //alert('OK');
+                            $('#products').load("@Url.Action("ProductFindByFilter", "ProductFind")");
+                        }
+                        else
+                            alert("Error on server");
+                    },
+                    error: function (data) {
+                        alert(data);
+                    }
+
+                });
+        }
+
+
+        $(function () {
+            LoadData($('form').serialize());
+            $('#find').click(function (e) {
+                e.preventDefault();
+
+                var model = $('form').serialize();
+                $.ajax({
+                    url: "@Url.Action("LoadData", "ProductFind")",
+                    type: 'POST',
+                    data: model,//$('form').serialize(),
+                    success: function (data) {
+                        if (data == "OK") {
+                            //alert('OK');
+                            $('#products').load("@Url.Action("ProductFindByFilter", "ProductFind")");
+                        }
+                        else
+                            alert("Error on server");
+                    },
+                    error: function (data) {
+                        alert(data);
+                    }
+
+                });
+            });
+
+
+            $('body').on('click', '.mypaging', function () {
+                var currentPage = $(this).html();
+                var str = 'paging.CurrentPage='+  $('#paging_CurrentPage').val();
+                var model = $('form').serialize();
+                model = model.replace(str, 'paging.CurrentPage=' + currentPage)
+                LoadData(model);
+
+            });
+            $('.mycheck').change(function () {
+                LoadData();
+            });  
+             // ---- CheckBox Change  ..............
+            $('body').on('click', '.btn-cart', function () {
+                var id = $(this).attr('data-id');
+                //alert("Select goods " + $(this).attr('data-goodid'));
+                $.ajax({
+                    url: "@Url.Action("AddToCart", "Cart")",
+                    type: 'POST',
+                    data: { id: $(this).attr('data-id') },
+                    success: function (data) {
+                        if (data == "OK") {
+                            @*$('#cart-header').load("@Html.Action("CartCount", "Cart")");*@
+                            var cartheader = $('#cart-header').attr('data-id');
+                            var s = cartheader;
+                            $('#cart-header').load("/Cart/CartCount");
+                        }
+                        else
+                            alert("Error on server");
+                    },
+                    error: function (data) {
+                        alert(data);
+                    }
+
+                });
+            });
+
+
+        });
+    </script>
+}

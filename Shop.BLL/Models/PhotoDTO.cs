@@ -9,12 +9,15 @@ namespace Shop.BLL.Models
 {
     public class PhotoDTO
     {
+        [Display(Name = "№ фото")]
         public int PhotoId { get; set; }
 
-        public int GoodId { get; set; }
+        [Display(Name = "№ продукта")]
+        public int ProductId { get; set; }
 
         [Required]
         [StringLength(128)]
+        [Display(Name = "Фото")]
         public string PathPhoto { get; set; }
     }
 }

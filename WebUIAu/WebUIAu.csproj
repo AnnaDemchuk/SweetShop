@@ -18,7 +18,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort />
+    <IISExpressSSLPort>44347</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -51,7 +51,16 @@
     <Reference Include="Autofac.Integration.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
       <HintPath>..\packages\Autofac.Mvc5.4.0.2\lib\net45\Autofac.Integration.Mvc.dll</HintPath>
     </Reference>
+    <Reference Include="LinqKit, Version=1.1.16.0, Culture=neutral, PublicKeyToken=bc217f8844052a91, processorArchitecture=MSIL">
+      <HintPath>..\packages\LinqKit.1.1.16\lib\net45\LinqKit.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="PagedList.Mvc, Version=4.5.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.Mvc.4.5.0.0\lib\net40\PagedList.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -202,21 +211,37 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CartController.cs" />
+    <Compile Include="Controllers\CartTestController.cs" />
+    <Compile Include="Controllers\OrderPosController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\DeliveryController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\ProductFindController.cs" />
+    <Compile Include="Controllers\ProductPriceController.cs" />
+    <Compile Include="Controllers\StatusOrderController.cs" />
+    <Compile Include="Controllers\SubCategoryController.cs" />
+    <Compile Include="Controllers\UnitController.cs" />
+    <Compile Include="Controllers\TasteCategoryController.cs" />
     <Compile Include="Controllers\ManufacturerController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
-    <Compile Include="Controllers\GoodController.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\PhotoController.cs" />
+    <Compile Include="Controllers\DashboardController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\EnumEditorHtmlHelper.cs" />
+    <Compile Include="Helpers\PagingHelpers.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\CartIndexViewModel.cs" />
     <Compile Include="Models\CartLine.cs" />
     <Compile Include="Models\Cart.cs" />
+    <Compile Include="Models\VMProductAllCreate.cs" />
+    <Compile Include="Models\CustomerInfo.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\PagingInfo.cs" />
+    <Compile Include="Models\VmProductFind.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -225,26 +250,66 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\iconsprite.png" />
+    <Content Include="Content\shortcodes.css" />
+    <Content Include="Content\simple-sidebar.css" />
+    <Content Include="Content\styleSweet.css" />
+    <Content Include="Content\PagedList.css" />
+    <Content Include="Content\swipebox.css" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Content\vendor\jquery\jquery.js" />
+    <Content Include="Content\vendor\jquery\jquery.min.js" />
+    <Content Include="Content\vendor\jquery\jquery.slim.js" />
+    <Content Include="Content\vendor\jquery\jquery.slim.min.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\77.jpg" />
+    <Content Include="Images\88.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="Content\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="Content\vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="Content\vendor\jquery\jquery.min.map" />
+    <Content Include="Content\vendor\jquery\jquery.slim.min.map" />
+    <Content Include="fonts\Rosalinda.ttf" />
+    <Content Include="fonts\Sail-Regular.otf" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.swipebox.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -254,10 +319,6 @@
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
     <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
@@ -279,19 +340,73 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Category\Index.cshtml" />
-    <Content Include="Views\Good\Edit.cshtml" />
-    <Content Include="Views\Good\Index.cshtml" />
     <Content Include="Views\Photo\UploadPhoto.cshtml" />
     <Content Include="Views\Photo\ShowPhoto.cshtml" />
-    <Content Include="Views\Good\Details.cshtml" />
     <Content Include="Views\Cart\Index.cshtml" />
     <Content Include="Views\Category\Edit.cshtml" />
-    <Content Include="Views\Manufacturer\Index.cshtml" />
     <Content Include="Views\Manufacturer\Edit.cshtml" />
+    <Content Include="Views\Photo\FirstPhoto.cshtml" />
+    <Content Include="Views\ProductPrice\Index.cshtml" />
+    <Content Include="Views\ProductPrice\Edit.cshtml" />
+    <Content Include="Views\ProductPrice\Details.cshtml" />
+    <Content Include="Views\SubCategory\Edit.cshtml" />
+    <Content Include="Views\Product\Index.cshtml" />
+    <Content Include="Views\Product\Edit.cshtml" />
+    <Content Include="Views\Product\Details.cshtml" />
+    <Content Include="Views\Unit\Edit.cshtml" />
+    <Content Include="Views\TasteCategory\Edit.cshtml" />
+    <Content Include="Views\Delivery\Edit.cshtml" />
+    <Content Include="Views\Photo\ShowPhotoDelete.cshtml" />
+    <Content Include="Views\Account\View.cshtml" />
+    <Content Include="Views\Cart\OrderSuccess.cshtml" />
+    <Content Include="Views\Account\DisplayEmail.cshtml" />
+    <Content Include="Views\CartTest\Edit.cshtml" />
+    <Content Include="Views\Order\Edit.cshtml" />
+    <Content Include="Views\TasteCategory\UploadPhoto.cshtml" />
+    <Content Include="Views\SubCategory\UploadPhoto.cshtml" />
+    <Content Include="Views\Manufacturer\UploadPhoto.cshtml" />
+    <Content Include="Views\Category\UploadPhoto.cshtml" />
+    <Content Include="Views\Cart\CartCount.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Unit\IndexHtmlAction.cshtml" />
+    <Content Include="Views\Unit\IndexListing.cshtml" />
+    <Content Include="Views\Shared\_LayoutDashboard.cshtml" />
+    <Content Include="Views\Dashboard\Index.cshtml" />
+    <Content Include="Views\Category\IndexHtmlAction.cshtml" />
+    <Content Include="Views\Delivery\IndexHtmlAction.cshtml" />
+    <Content Include="Views\Manufacturer\IndexHtmlAction.cshtml" />
+    <Content Include="Views\Order\IndexHtmlAction.cshtml" />
+    <Content Include="Views\Product\IndexHtmlAction.cshtml" />
+    <Content Include="Views\SubCategory\IndexHtmlAction.cshtml" />
+    <Content Include="Views\TasteCategory\IndexHtmlAction.cshtml" />
+    <Content Include="Views\Category\IndexListing.cshtml" />
+    <Content Include="Views\Delivery\IndexListing.cshtml" />
+    <Content Include="Views\Manufacturer\IndexListing.cshtml" />
+    <Content Include="Views\Order\IndexListing.cshtml" />
+    <Content Include="Views\OrderPos\Index.cshtml" />
+    <Content Include="Views\OrderPos\Edit.cshtml" />
+    <Content Include="Views\Product\IndexListing.cshtml" />
+    <Content Include="Views\ProductPrice\IndexHtmlAction.cshtml" />
+    <Content Include="Views\ProductPrice\IndexListing.cshtml" />
+    <Content Include="Views\StatusOrder\IndexListing.cshtml" />
+    <Content Include="Views\StatusOrder\Edit.cshtml" />
+    <Content Include="Views\StatusOrder\IndexHtmlAction.cshtml" />
+    <Content Include="Views\SubCategory\IndexListing.cshtml" />
+    <Content Include="Views\TasteCategory\IndexListing.cshtml" />
+    <Content Include="Views\OrderPos\IndexHtmlAction.cshtml" />
+    <Content Include="Views\Index.cshtml" />
+    <Content Include="Views\ProductFind\Index.cshtml" />
+    <Content Include="Views\ProductFind\ProductFindByFilter.cshtml" />
+    <Content Include="Views\Order\FindMyOrderEmail.cshtml" />
+    <Content Include="Views\OrderPos\FindMyOrderDetails.cshtml" />
+    <Content Include="Views\Account\Delete.cshtml" />
+    <Content Include="Views\OrderPos\Positions.cshtml" />
+    <Content Include="Views\Order\FindMyOrder.cshtml" />
+    <Content Include="Views\Order\AboutOrder.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Images\" />
+    <Folder Include="Content\css\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -315,10 +430,6 @@
     <ProjectReference Include="..\Shop.DAL\Shop.DAL.csproj">
       <Project>{440a76f7-b0fc-434d-a394-bc3ded9ab1fd}</Project>
       <Name>Shop.DAL</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Step.Identity\Step.Identity.csproj">
-      <Project>{8447f73e-f8b7-4629-af0e-0fcaab18b0c9}</Project>
-      <Name>Step.Identity</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -2,6 +2,7 @@
 using Shop.BLL.Services;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -23,12 +24,21 @@ namespace Step.WebUI.Controllers
             return View(model);
         }
 
+        public ActionResult IndexHtmlAction()
+        {
+            return View();
+        }
+
+        public ActionResult IndexListing()
+        {
+            var model = manufacturerService.GetAll();
+            return PartialView("IndexListing", model);
+        }
+
+        [Authorize(Roles = "admin")]
         public ActionResult Edit(int id = 0)
         {
             var model = (id == 0) ? new ManufacturerDTO() : manufacturerService.Get(id);
-      
-            ViewBag.ManufacturerId = new SelectList(manufacturerService.GetAll(),
-                              "ManufacturerId", "ManufacturerName", model.ManufacturerId);
             return View(model);
         }
 
@@ -38,7 +48,7 @@ namespace Step.WebUI.Controllers
             if (ModelState.IsValid)
             {
                 manufacturerService.AddOrUpdate(manufacturer);
-                return RedirectToAction("Index");
+                return RedirectToAction("IndexHtmlAction");
             }
             return View("Edit");
         }
@@ -58,6 +68,20 @@ namespace Step.WebUI.Controllers
             }
         }
 
+        [HttpPost]
+        public ActionResult UploadPhoto(HttpPostedFileBase fileUpload)
+        {
+            string Id = Request.Params["id"];
 
+            if (fileUpload != null)
+            {
+                ManufacturerDTO manufacturer = manufacturerService.Get(Convert.ToInt32(Id));
+                manufacturer.ManufacturerPhotoPath = "/Images/" + fileUpload.FileName;
+                manufacturerService.AddOrUpdate(manufacturer);
+            }
+            string path = Path.Combine(Server.MapPath("~/Images/"), fileUpload.FileName);
+            fileUpload.SaveAs(path);
+            return RedirectToAction("Edit", "Manufacturer", new { id = Convert.ToInt32(Id) });
+        }
     }
 }

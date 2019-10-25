@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Shop.BLL.Models.ManufacturerDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Список производителей</h2>
+
+<p>
+    @Html.ActionLink("Новый", "Edit", new { id = 0 }, new { @class = "btn-sm btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        @*
+        <th>
+           Html.DisplayNameFor(model => model.ManufacturerId)
+        </th>
+        *@
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerAbout)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerSite)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerEmail)
+        </th>
+        @*
+        <th>
+            @Html.DisplayNameFor(model => model.ManufacturerPhotoPath)
+        </th>
+        *@
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*
+                <td>
+                   Html.DisplayFor(modelItem => item.ManufacturerId)
+                </td>
+            *@
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerAbout)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerSite)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufacturerPhotoPath)
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.ManufacturerId }, new { @class = "btn-sm btn-success" })
+                @*Html.ActionLink("Details", "Details", new { id = item.ManufacturerId }, new { @class = "btn-sm btn-success" })*@
+                @Html.ActionLink("Удалить", "Delete", new { id = item.ManufacturerId }, new { @class = "btn-sm btn-danger delManufacturer", data_id = item.ManufacturerId })
+            </td>
+        </tr>
+
+    }
+
+</table>
